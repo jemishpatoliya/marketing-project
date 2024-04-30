@@ -1,0 +1,28 @@
+.container{
+    max-width: 960px;
+    margin: 0 auto;
+}
+.hero_right_inner{
+    height: 400px;
+}
+.hero{
+    padding: 120px 0;
+}
+.hero_text{
+    padding-top: 80px;
+}
+.hero_text h1{
+    font-size: 54px;
+}
+.hero_text p{
+    line-height: 25px;
+    margin-top: 20px;
+}
+.about_info_photo_inner{
+    max-width: 400px;
+}
+.about_info_photo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

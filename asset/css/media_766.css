@@ -1,0 +1,25 @@
+.container{
+    max-width: 540px;
+    margin: 0 auto;
+}
+.hero_text h1{
+        font-size: 44px;
+}
+.about_info{
+    flex-direction: column;
+}
+.about_info_text{
+    width: 100%;
+}
+.about_info_photo{
+    width: 100%;
+}
+.about_info_photo_inner{
+    max-width: 450px;
+}
+.services_inner{
+    grid-template-columns: auto;
+}
+.priceing_inner{
+    grid-template-columns: auto;
+}

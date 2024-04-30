@@ -1,0 +1,11 @@
+.container{
+    max-width: 100%;
+    padding: 0 30px;
+}
+.menu_for_mobile i{
+    margin-right: 20px;
+}
+.hero_right_inner{
+    height: 350px;
+    width: 300px;
+}
